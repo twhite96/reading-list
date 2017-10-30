@@ -7,6 +7,8 @@ Programming and Productivity/Business Reading list for 2018. If you'd like, you 
 - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) by John Sonmez
 - [Real Artists Don't Starve](https://www.amazon.com/gp/product/B01N3NGAQ8/ref=kinw_myk_ro_title) by Jeff Goins
 
+*Plus other books*
+
 ## To Finish in 2017
 
 - [Data Structures and Algorithms in JavaScript](https://www.amazon.com/Data-Structures-Algorithms-JavaScript-approaches/dp/1449364934/ref=mt_paperback?_encoding=UTF8&me=) by Michael McMillan
