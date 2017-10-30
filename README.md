@@ -3,9 +3,9 @@ Programming and Productivity/Business Reading list for 2018. If you'd like, you 
 
 ## Read in 2017
 
-[Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B001ANYDAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1509322165&sr=8-2) by Malcolm Gladwell
-[The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) by John Sonmez
-[Real Artists Don't Starve](https://www.amazon.com/gp/product/B01N3NGAQ8/ref=kinw_myk_ro_title) by Jeff Goins
+- [Outliers](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B001ANYDAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1509322165&sr=8-2) by Malcolm Gladwell
+- [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) by John Sonmez
+- [Real Artists Don't Starve](https://www.amazon.com/gp/product/B01N3NGAQ8/ref=kinw_myk_ro_title) by Jeff Goins
 
 ## To Finish in 2017
 
